@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.exe
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.deps.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\SockMerchant\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.exe
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.deps.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\CountingValleys\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.genruntimeconfig.cache

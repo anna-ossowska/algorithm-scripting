@@ -1,0 +1,16 @@
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\bin\Debug\net5.0\JumpingOnClouds.exe
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\bin\Debug\net5.0\JumpingOnClouds.deps.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\bin\Debug\net5.0\JumpingOnClouds.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\bin\Debug\net5.0\JumpingOnClouds.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\bin\Debug\net5.0\JumpingOnClouds.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\bin\Debug\net5.0\ref\JumpingOnClouds.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\bin\Debug\net5.0\JumpingOnClouds.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\ref\JumpingOnClouds.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds\obj\Debug\net5.0\JumpingOnClouds.genruntimeconfig.cache

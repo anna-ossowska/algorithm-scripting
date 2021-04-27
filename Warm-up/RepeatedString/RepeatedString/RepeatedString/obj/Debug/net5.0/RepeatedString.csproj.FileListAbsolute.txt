@@ -1,0 +1,16 @@
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\bin\Debug\net5.0\RepeatedString.exe
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\bin\Debug\net5.0\RepeatedString.deps.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\bin\Debug\net5.0\RepeatedString.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\bin\Debug\net5.0\RepeatedString.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\bin\Debug\net5.0\RepeatedString.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\bin\Debug\net5.0\ref\RepeatedString.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\bin\Debug\net5.0\RepeatedString.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\ref\RepeatedString.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Warm-up\RepeatedString\RepeatedString\RepeatedString\obj\Debug\net5.0\RepeatedString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\bin\Debug\net5.0\2D.exe
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\bin\Debug\net5.0\2D.deps.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\bin\Debug\net5.0\2D.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\bin\Debug\net5.0\2D.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\bin\Debug\net5.0\2D.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\bin\Debug\net5.0\ref\2D.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\bin\Debug\net5.0\2D.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\ref\2D.dll
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.pdb
+C:\Users\tomas\Documents\anna\repos\algorithm-scripting\Arrays\2D\2D\2D\obj\Debug\net5.0\2D.genruntimeconfig.cache
